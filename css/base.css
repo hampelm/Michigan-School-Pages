@@ -99,7 +99,6 @@ table {
 }
 caption, th, td {
     text-align: left;
-    vertical-align: top;
     font-weight: normal;
 }
     table.schooldata {
